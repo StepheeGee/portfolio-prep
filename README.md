@@ -29,7 +29,8 @@ I need to educate myself.
 And here we are.
 
 ### Gather your assets
-1. Headshot  - added
-2. Background Image - not sure
+
+1. Headshot  - Added
+2. Background Image - not sure but added some options
 3. Project SS (3) - Added
 4. 201 SS (3) - Added
